@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Beau React UI Library...
+- ⚡ Fun fact: All work and no play makes Jack a dull boy
+
 <!--
 **khalilliu/khalilliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
