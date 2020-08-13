@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Beau React UI Library...
 - ⚡ Fun fact: All work and no play makes Jack a dull boy
-- 🔗 [Downlod Github Repo](csb-2wnfz.netlify.app)
+- 🔗 [Download Github Repo](https://csb-2wnfz.netlify.app)
 
 <!--
 **khalilliu/khalilliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
