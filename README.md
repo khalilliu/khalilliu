@@ -1,4 +1,4 @@
-### Hi there 👋
+### Enjoy your life!!! 🥰
 
 - 🔭 I’m currently working on Beau React UI Library...
 - ⚡ Fun fact: All work and no play makes Jack a dull boy
